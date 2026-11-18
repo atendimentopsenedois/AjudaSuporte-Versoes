@@ -1,4 +1,4 @@
-# AjudaSuporte — downloads e versões públicas
+# AjudaSuporte
 
 Este repositório público disponibiliza **somente o instalador compilado** do AjudaSuporte e seu manifesto de versão. O código-fonte e a infraestrutura de desenvolvimento permanecem em um repositório privado.
 
